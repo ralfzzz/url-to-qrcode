@@ -1,2 +1,2 @@
 # url-to-qrcode
- a script to convert url input text into a qrcode png image
+ a script to convert url input text into a qrcode png image (using Node JS)
